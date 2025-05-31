@@ -1,7 +1,9 @@
-⚔️ First-Person Shooter Game
+#⚔️ First-Person Shooter Game
+
 Welcome to my  First-Person Shooter (FPS) game! This project is built using Unity and showcases engaging FPS mechanics and visually appealing graphics. Whether you're a gamer or a developer, this project offers a great starting point for FPS game development.
 
-🎮 Features
+#🎮 Features
+
 🌍 Immersive Environment
 Built using a high-quality environment from the Unity Asset Store, providing a realistic and atmospheric setting.
 
@@ -26,7 +28,8 @@ D – Move Right
 
 Mouse Click – Fire Weapon
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
+
 Game Engine: Unity
 
 Scripting Language: C#
