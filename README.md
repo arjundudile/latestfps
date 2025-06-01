@@ -1,4 +1,4 @@
-#⚔️ First-Person Shooter Game
+# ⚔️ First-Person Shooter Game
 
 Welcome to my  First-Person Shooter (FPS) game! This project is built using Unity and showcases engaging FPS mechanics and visually appealing graphics. Whether you're a gamer or a developer, this project offers a great starting point for FPS game development.
 
